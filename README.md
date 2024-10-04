@@ -1,6 +1,6 @@
 ### Airplane Mode
 
-manages flights!
+1
 
 ### Installation
 

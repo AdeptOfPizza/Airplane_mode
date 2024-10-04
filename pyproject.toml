@@ -1,9 +1,9 @@
 [project]
 name = "airplane_mode"
 authors = [
-    { name = "roman zyryanov", email = "flight@mail.ru"}
+    { name = "me", email = "me@mail.com"}
 ]
-description = "manages flights!"
+description = "1"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

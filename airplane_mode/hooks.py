@@ -1,8 +1,8 @@
 app_name = "airplane_mode"
 app_title = "Airplane Mode"
-app_publisher = "roman zyryanov"
-app_description = "manages flights!"
-app_email = "flight@mail.ru"
+app_publisher = "me"
+app_description = "1"
+app_email = "me@mail.com"
 app_license = "mit"
 
 # Apps
